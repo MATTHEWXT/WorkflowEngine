@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Domain\Entities\" />
+    <Folder Include="Domain\Core\" />
+    <Folder Include="Application\" />
+  </ItemGroup>
+
 </Project>

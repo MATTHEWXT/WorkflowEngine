@@ -8,9 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\Entities\" />
     <Folder Include="Domain\Core\" />
     <Folder Include="Application\" />
+    <Folder Include="Infrastructure\" />
+    <Folder Include="CLI\" />
+    <Folder Include="Tests\" />
   </ItemGroup>
 
 </Project>

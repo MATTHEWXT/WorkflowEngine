@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Application\PipeLine\" />
     <Folder Include="Domain\Core\" />
-    <Folder Include="Application\" />
-    <Folder Include="Infrastructure\" />
     <Folder Include="CLI\" />
     <Folder Include="Tests\" />
   </ItemGroup>

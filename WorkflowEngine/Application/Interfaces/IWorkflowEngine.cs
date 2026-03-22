@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using WorkflowEngine.Application.Events;
+﻿using WorkflowEngine.Application.Events;
 using WorkflowEngine.Domain.Entities.Activity;
 using WorkflowEngine.Domain.Entities.Workflow;
 

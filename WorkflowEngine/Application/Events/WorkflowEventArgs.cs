@@ -7,11 +7,11 @@ namespace WorkflowEngine.Application.Events
 {
     public class WorkflowEventArgs : EventArgs
     {      
-        public WorkflowInstance _workflowInstance {  get; }
+        public WorkflowInstance Workflow {  get; }
 
         public WorkflowEventArgs(WorkflowInstance workflowInstance)
         {
-            _workflowInstance = workflowInstance;
+            Workflow = workflowInstance;
         }
     }
 }
